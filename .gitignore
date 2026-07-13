@@ -1,0 +1,10 @@
+_repo/
+__pycache__/
+*.pyc
+sft/
+dpo_style/
+dpo_q/
+simpo/
+rm/
+style_adapter*/
+.ipynb_checkpoints/
